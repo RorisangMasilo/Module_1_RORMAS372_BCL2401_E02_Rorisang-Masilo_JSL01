@@ -12,7 +12,7 @@ Building a virtual pet adoption website, with a JavaScript function that checks 
 
 #### Areas of Mastery
 
-To be honest, I cannot say if I have mastered anything, I have only acknowledged that I need to emerse myself religiously in the tech language for my survival.
+To be honest, I cannot say if I have mastered anything, I have only acknowledged that I need to immerse myself religiously in the tech language for my survival.
 
 #### Challenges Faced
 
