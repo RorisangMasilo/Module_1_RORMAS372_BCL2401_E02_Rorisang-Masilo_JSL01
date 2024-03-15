@@ -1,33 +1,30 @@
-# [JSL01] Submission: Syntax-Engine Interaction Challenge
+# RORMAS372_BCL2401_GroupE02_RorisangMasilo_SDF08
 
-You will: 
-1. Use the Starter Code Repo, 
-2. Code your solution,
-3. Commit changes to your repo
-3. Submit GitHub Repo Link to LMS [JSL01] Submission Project Tab
+# Learning Reflections
 
-Imagine you are building a virtual pet adoption website, and you need to create a JavaScript function that checks if the user has entered valid pet adoption details. Write a function that takes a string as input and validates if it follows a specific syntax, such as starting with "pet_" followed by a combination of letters and numbers. If the input follows the syntax, return "Valid Syntax," otherwise, return "Invalid Syntax."
+## **[JSL01] Submission: Syntax-Engine Interaction Challenge**
 
-![alt text](jsl_01_final_result.gif)
+### Overview
 
-## Challenge Instructions
-1. In the script.js file, complete the validateSyntax function to check if the input string starts with "pet_" and is followed by a combination of letters and numbers.
-2. If the input follows the correct syntax, set result to "Valid Syntax." Otherwise, set it to "Invalid Syntax."
-3. Test your function by entering different strings in the input box and clicking the validate button.
+Building a virtual pet adoption website, with a JavaScript function that checks if the user has entered valid pet adoption details.
 
-## How to Test 
-- Run the index.html challenge in a browser.
-- Enter different pet adoption details in the input box and click the validate button to see the results.
-- Make sure your solution works for a variety of inputs.
-- Open the console and debug your code until there are no errors.
+### Reflections
 
-## Instructions for Running the Code
-1. Save the HTML, CSS, and JavaScript files in a folder.
-2. Open the folder in VSCode.
-3. Right-click on index.html and open with a browser (use Live Server if available).
-4. Modify the script.js file to correct the syntax errors and save the file.
-5. Refresh your browser to view the changes.
+#### Areas of Mastery
 
-This challenge helps students practice basic string manipulation and validation in JavaScript, along with simple DOM manipulation to create an interactive and user-friendly interface.
+To be honest, I cannot say if I have mastered anything, I have only acknowledged that I need to immerse myself religiously in the tech language for my survival.
 
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/pqPae6ZH7
+#### Challenges Faced
+
+- **Comments, Literals, Identifiers, and Reserved Words**: Understanding the Template literals and their features, rules and importance of identifiers, as well as the special meanings of reserved words, to be able to apply myself in code accordingly
+- **Immutable Primitive Values and Mutable Object References**: Best practices for handling immutable data and object references.
+
+
+#### Areas for Improvement
+
+- **Debugging Basics in Javascript**: I want to better understand the process and importance of debugging in JavaScript, type checking and type conversions in JavaScript, as well as the basic debugging method and its suitability per bug.
+es.
+
+#### Overall Learning Experience
+
+This project was an invaluable hands-on experience in the basics or fundamentals of JavaScript. It assisted in giving insight as to my downfalls of understanding the tech language. I am glad to have that insight, as it has enlightened me to change my methods of learning and minimise my usage of AI tools for my knowledge and benefit.
